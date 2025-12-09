@@ -193,10 +193,6 @@ The system operates based on **manual and automatic modes**:
 
 ## Ports
 ```cpp
-// WiFi
-#define WIFI_SSID "YOUR_WIFI_SSID"
-#define WIFI_PASSWORD "YOUR_WIFI_PASSWORD"
-
 // LEDs
 #define LED_PIN 16
 #define WHITE_LED_PIN 17  
@@ -233,9 +229,16 @@ The system operates based on **manual and automatic modes**:
 
 ## Result
 
-**Video:** 
+### Video:
 
-**Photo:** 
+https://github.com/user-attachments/assets/4c0856ce-77a2-483f-8923-3457249b276d
+
+### Photo: 
+#### In real life
+<img width="1280" height="558" alt="image" src="https://github.com/user-attachments/assets/121267a7-9346-41d1-91e4-24c96dbfe76b" />
+
+#### Web interface
+<img width="1280" height="757" alt="image" src="https://github.com/user-attachments/assets/4ea14ef4-16c7-45bd-aec1-0f8051a27106" />
 
 ## License
 
