@@ -158,7 +158,6 @@ Example: `http://192.168.8.0`
 **Sensor Data**
 | Endpoint       | Description                   |
 |----------------|-------------------------------|
-| /sensor/pir    | Motion detected / not detected|
 | /sensor/soil   | Soil humidity level           |
 | /sensor/light  | Light intensity               |
 | /sensor/steam  | Steam / humidity reading      |
